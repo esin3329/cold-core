@@ -1,0 +1,28 @@
+{
+  "name": "cold-core-prototype",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build && vite build --config vite.single.config.ts",
+    "test": "vitest run",
+    "sim": "vite-node scripts/headless-match.ts",
+    "verify": "node scripts/verify.mjs",
+    "balance": "vite-node scripts/balance.ts",
+    "balance:v03": "SET=v03 vite-node scripts/balance.ts",
+    "balance:v04": "SET=v04 vite-node scripts/balance.ts",
+    "balance:v05": "SET=v05 vite-node scripts/balance.ts",
+    "balance:v06": "SET=v06 vite-node scripts/balance.ts",
+    "balance:v07": "SET=v07 vite-node scripts/balance.ts",
+    "balance:v08": "SET=v08 vite-node scripts/balance.ts"
+  },
+  "devDependencies": {
+    "playwright-core": "^1.65.1",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.8",
+    "vite-node": "^6.0.0",
+    "vite-plugin-singlefile": "^2.3.4",
+    "vitest": "^5.1.0"
+  }
+}

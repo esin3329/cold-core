@@ -1,0 +1,3092 @@
+{
+ "planner": {
+  "C+D1+D2": {
+   "n": 300,
+   "coreDmgPct": 100,
+   "decisivePct": 10,
+   "meanLoss": 30.016666666666666,
+   "turns": 20,
+   "timePct": 100,
+   "corePct": 0,
+   "dataPct": 0,
+   "timeWinPct": 97.33333333333333,
+   "drawPct": 2.6666666666666665,
+   "drawNonTime": 0,
+   "sdKillPct": 0,
+   "distinct": 268,
+   "reclaims": 0,
+   "repairs": 8.103333333333333,
+   "links": 14.276666666666667,
+   "linkKills": 5.48,
+   "linkGames": 87.33333333333333,
+   "honey": 0.81,
+   "neutralShare": 51.0440251572327,
+   "dataPerGame": 19.875,
+   "dataWinTurn": 0,
+   "neutralPer": 10.145,
+   "breachPer": 0,
+   "vaultPer": 9.73,
+   "siegerBreachAvg": 0,
+   "siegerGatePct": 0,
+   "siegerGateTurn": 0,
+   "siegerCoreDmg": 0,
+   "gateAll": {
+    "n": 600,
+    "pct": 4.5,
+    "turn": 15.37037037037037,
+    "by12": 1.1666666666666667
+   },
+   "gateByStyle": {
+    "balanced": {
+     "n": 300,
+     "pct": 0,
+     "turn": 0,
+     "by12": 0
+    },
+    "raider": {
+     "n": 300,
+     "pct": 9,
+     "turn": 15.37037037037037,
+     "by12": 2.3333333333333335
+    }
+   },
+   "siegerEngage": {
+    "pct": 0,
+    "turn": 0,
+    "by5": 0
+   },
+   "siegerWave": {
+    "allLostPct": 0,
+    "linkShare": 0,
+    "jackShare": 0,
+    "tbShare": 0,
+    "otherShare": 0,
+    "n": 0,
+    "wipedPct": 0,
+    "size": 0,
+    "houndKillShare": 0,
+    "turn": 0
+   },
+   "heatAll": {
+    "n": 600,
+    "pull": 0.3333333333333333,
+    "high": 0.975,
+    "tb": 1.4633333333333334,
+    "pullAny": 26
+   },
+   "heatByStyle": {
+    "balanced": {
+     "n": 300,
+     "pull": 0.11,
+     "high": 0.21,
+     "tb": 0.12666666666666668,
+     "pullAny": 11
+    },
+    "raider": {
+     "n": 300,
+     "pull": 0.5566666666666666,
+     "high": 1.74,
+     "tb": 2.8,
+     "pullAny": 41
+    }
+   },
+   "aWinPct": 64.66666666666667,
+   "bWinPct": 32.666666666666664,
+   "styleWin": {
+    "raider": 95,
+    "balanced": 5
+   },
+   "styleGames": {
+    "raider": 100,
+    "balanced": 100
+   }
+  },
+  "C+D1+D2+D3": {
+   "n": 300,
+   "coreDmgPct": 100,
+   "decisivePct": 10,
+   "meanLoss": 30.016666666666666,
+   "turns": 20,
+   "timePct": 100,
+   "corePct": 0,
+   "dataPct": 0,
+   "timeWinPct": 97.33333333333333,
+   "drawPct": 2.6666666666666665,
+   "drawNonTime": 0,
+   "sdKillPct": 0,
+   "distinct": 263,
+   "reclaims": 0,
+   "repairs": 8.103333333333333,
+   "links": 14.276666666666667,
+   "linkKills": 5.48,
+   "linkGames": 87.33333333333333,
+   "honey": 0.81,
+   "neutralShare": 49.35808466342817,
+   "dataPerGame": 19.213333333333335,
+   "dataWinTurn": 0,
+   "neutralPer": 9.483333333333333,
+   "breachPer": 0,
+   "vaultPer": 9.73,
+   "siegerBreachAvg": 0,
+   "siegerGatePct": 0,
+   "siegerGateTurn": 0,
+   "siegerCoreDmg": 0,
+   "gateAll": {
+    "n": 600,
+    "pct": 4.5,
+    "turn": 15.37037037037037,
+    "by12": 1.1666666666666667
+   },
+   "gateByStyle": {
+    "balanced": {
+     "n": 300,
+     "pct": 0,
+     "turn": 0,
+     "by12": 0
+    },
+    "raider": {
+     "n": 300,
+     "pct": 9,
+     "turn": 15.37037037037037,
+     "by12": 2.3333333333333335
+    }
+   },
+   "siegerEngage": {
+    "pct": 0,
+    "turn": 0,
+    "by5": 0
+   },
+   "siegerWave": {
+    "allLostPct": 0,
+    "linkShare": 0,
+    "jackShare": 0,
+    "tbShare": 0,
+    "otherShare": 0,
+    "n": 0,
+    "wipedPct": 0,
+    "size": 0,
+    "houndKillShare": 0,
+    "turn": 0
+   },
+   "heatAll": {
+    "n": 600,
+    "pull": 0.3333333333333333,
+    "high": 0.975,
+    "tb": 1.4633333333333334,
+    "pullAny": 26
+   },
+   "heatByStyle": {
+    "balanced": {
+     "n": 300,
+     "pull": 0.11,
+     "high": 0.21,
+     "tb": 0.12666666666666668,
+     "pullAny": 11
+    },
+    "raider": {
+     "n": 300,
+     "pull": 0.5566666666666666,
+     "high": 1.74,
+     "tb": 2.8,
+     "pullAny": 41
+    }
+   },
+   "aWinPct": 64.66666666666667,
+   "bWinPct": 32.666666666666664,
+   "styleWin": {
+    "raider": 96,
+    "balanced": 4
+   },
+   "styleGames": {
+    "raider": 100,
+    "balanced": 100
+   }
+  },
+  "A+B+C+D1+D2+D3": {
+   "n": 300,
+   "coreDmgPct": 100,
+   "decisivePct": 87.33333333333333,
+   "meanLoss": 49.65,
+   "turns": 19.796666666666667,
+   "timePct": 82.66666666666667,
+   "corePct": 17.333333333333332,
+   "dataPct": 0,
+   "timeWinPct": 80.33333333333333,
+   "drawPct": 2.3333333333333335,
+   "drawNonTime": 0,
+   "sdKillPct": 13.333333333333334,
+   "distinct": 297,
+   "reclaims": 0.01,
+   "repairs": 5.413333333333333,
+   "links": 18.3,
+   "linkKills": 7.66,
+   "linkGames": 97.66666666666667,
+   "honey": 1.1366666666666667,
+   "neutralShare": 50.00746825989545,
+   "dataPerGame": 22.316666666666666,
+   "dataWinTurn": 0,
+   "neutralPer": 11.16,
+   "breachPer": 0,
+   "vaultPer": 11.156666666666666,
+   "siegerBreachAvg": 0,
+   "siegerGatePct": 0,
+   "siegerGateTurn": 0,
+   "siegerCoreDmg": 0,
+   "gateAll": {
+    "n": 600,
+    "pct": 52.5,
+    "turn": 18.523809523809526,
+    "by12": 1.5
+   },
+   "gateByStyle": {
+    "balanced": {
+     "n": 300,
+     "pct": 47.333333333333336,
+     "turn": 19.169014084507044,
+     "by12": 0
+    },
+    "raider": {
+     "n": 300,
+     "pct": 57.666666666666664,
+     "turn": 17.99421965317919,
+     "by12": 3
+    }
+   },
+   "siegerEngage": {
+    "pct": 0,
+    "turn": 0,
+    "by5": 0
+   },
+   "siegerWave": {
+    "allLostPct": 0,
+    "linkShare": 0,
+    "jackShare": 0,
+    "tbShare": 0,
+    "otherShare": 0,
+    "n": 0,
+    "wipedPct": 0,
+    "size": 0,
+    "houndKillShare": 0,
+    "turn": 0
+   },
+   "heatAll": {
+    "n": 600,
+    "pull": 0.23166666666666666,
+    "high": 0.6666666666666666,
+    "tb": 0.9,
+    "pullAny": 20.166666666666668
+   },
+   "heatByStyle": {
+    "balanced": {
+     "n": 300,
+     "pull": 0.10333333333333333,
+     "high": 0.17666666666666667,
+     "tb": 0.13333333333333333,
+     "pullAny": 10
+    },
+    "raider": {
+     "n": 300,
+     "pull": 0.36,
+     "high": 1.1566666666666667,
+     "tb": 1.6666666666666667,
+     "pullAny": 30.333333333333332
+    }
+   },
+   "aWinPct": 59.333333333333336,
+   "bWinPct": 38.333333333333336,
+   "styleWin": {
+    "raider": 75,
+    "balanced": 25
+   },
+   "styleGames": {
+    "raider": 100,
+    "balanced": 100
+   }
+  },
+  "off": {
+   "n": 300,
+   "coreDmgPct": 1,
+   "decisivePct": 0,
+   "meanLoss": 0.135,
+   "turns": 11.143333333333333,
+   "timePct": 1.6666666666666667,
+   "corePct": 0,
+   "dataPct": 98.33333333333333,
+   "timeWinPct": 1.6666666666666667,
+   "drawPct": 0,
+   "drawNonTime": 0,
+   "sdKillPct": 0,
+   "distinct": 300,
+   "reclaims": 0,
+   "repairs": 0.013333333333333334,
+   "links": 12.816666666666666,
+   "linkKills": 4.886666666666667,
+   "linkGames": 87,
+   "honey": 0.6966666666666667,
+   "neutralShare": 66.58754792769764,
+   "dataPerGame": 18.256666666666668,
+   "dataWinTurn": 10.99322033898305,
+   "neutralPer": 12.156666666666666,
+   "breachPer": 0,
+   "vaultPer": 6.1,
+   "siegerBreachAvg": 0,
+   "siegerGatePct": 0,
+   "siegerGateTurn": 0,
+   "siegerCoreDmg": 0,
+   "gateAll": {
+    "n": 600,
+    "pct": 1.1666666666666667,
+    "turn": 9.857142857142858,
+    "by12": 1
+   },
+   "gateByStyle": {
+    "balanced": {
+     "n": 300,
+     "pct": 0,
+     "turn": 0,
+     "by12": 0
+    },
+    "raider": {
+     "n": 300,
+     "pct": 2.3333333333333335,
+     "turn": 9.857142857142858,
+     "by12": 2
+    }
+   },
+   "siegerEngage": {
+    "pct": 0,
+    "turn": 0,
+    "by5": 0
+   },
+   "siegerWave": {
+    "allLostPct": 0,
+    "linkShare": 0,
+    "jackShare": 0,
+    "tbShare": 0,
+    "otherShare": 0,
+    "n": 0,
+    "wipedPct": 0,
+    "size": 0,
+    "houndKillShare": 0,
+    "turn": 0
+   },
+   "heatAll": {
+    "n": 600,
+    "pull": 0.19,
+    "high": 0.56,
+    "tb": 0.9766666666666667,
+    "pullAny": 16.666666666666668
+   },
+   "heatByStyle": {
+    "balanced": {
+     "n": 300,
+     "pull": 0.09666666666666666,
+     "high": 0.17333333333333334,
+     "tb": 0.11333333333333333,
+     "pullAny": 9.666666666666666
+    },
+    "raider": {
+     "n": 300,
+     "pull": 0.2833333333333333,
+     "high": 0.9466666666666667,
+     "tb": 1.84,
+     "pullAny": 23.666666666666668
+    }
+   },
+   "aWinPct": 66.66666666666667,
+   "bWinPct": 33.333333333333336,
+   "styleWin": {
+    "raider": 93,
+    "balanced": 7
+   },
+   "styleGames": {
+    "raider": 100,
+    "balanced": 100
+   }
+  },
+  "A+B+C": {
+   "n": 300,
+   "coreDmgPct": 13.333333333333334,
+   "decisivePct": 2.3333333333333335,
+   "meanLoss": 2.0433333333333334,
+   "turns": 11.2,
+   "timePct": 0,
+   "corePct": 0,
+   "dataPct": 100,
+   "timeWinPct": 0,
+   "drawPct": 0,
+   "drawNonTime": 0,
+   "sdKillPct": 0,
+   "distinct": 299,
+   "reclaims": 0.0033333333333333335,
+   "repairs": 0.12,
+   "links": 13.613333333333333,
+   "linkKills": 5.263333333333334,
+   "linkGames": 91,
+   "honey": 0.7733333333333333,
+   "neutralShare": 66.39250022110197,
+   "dataPerGame": 18.845,
+   "dataWinTurn": 11.2,
+   "neutralPer": 12.511666666666667,
+   "breachPer": 0,
+   "vaultPer": 6.333333333333333,
+   "siegerBreachAvg": 0,
+   "siegerGatePct": 0,
+   "siegerGateTurn": 0,
+   "siegerCoreDmg": 0,
+   "gateAll": {
+    "n": 600,
+    "pct": 3.1666666666666665,
+    "turn": 13.842105263157896,
+    "by12": 1.1666666666666667
+   },
+   "gateByStyle": {
+    "balanced": {
+     "n": 300,
+     "pct": 0.6666666666666666,
+     "turn": 17.5,
+     "by12": 0
+    },
+    "raider": {
+     "n": 300,
+     "pct": 5.666666666666667,
+     "turn": 13.411764705882353,
+     "by12": 2.3333333333333335
+    }
+   },
+   "siegerEngage": {
+    "pct": 0,
+    "turn": 0,
+    "by5": 0
+   },
+   "siegerWave": {
+    "allLostPct": 0,
+    "linkShare": 0,
+    "jackShare": 0,
+    "tbShare": 0,
+    "otherShare": 0,
+    "n": 0,
+    "wipedPct": 0,
+    "size": 0,
+    "houndKillShare": 0,
+    "turn": 0
+   },
+   "heatAll": {
+    "n": 600,
+    "pull": 0.17166666666666666,
+    "high": 0.5116666666666667,
+    "tb": 0.8083333333333333,
+    "pullAny": 15.5
+   },
+   "heatByStyle": {
+    "balanced": {
+     "n": 300,
+     "pull": 0.09333333333333334,
+     "high": 0.16333333333333333,
+     "tb": 0.11666666666666667,
+     "pullAny": 9.333333333333334
+    },
+    "raider": {
+     "n": 300,
+     "pull": 0.25,
+     "high": 0.86,
+     "tb": 1.5,
+     "pullAny": 21.666666666666668
+    }
+   },
+   "aWinPct": 64,
+   "bWinPct": 36,
+   "styleWin": {
+    "raider": 91,
+    "balanced": 9
+   },
+   "styleGames": {
+    "raider": 100,
+    "balanced": 100
+   }
+  },
+  "A+B+C+D2+D3 (참고)": {
+   "n": 300,
+   "coreDmgPct": 67.33333333333333,
+   "decisivePct": 36.333333333333336,
+   "meanLoss": 25.003333333333334,
+   "turns": 16.27,
+   "timePct": 23.666666666666668,
+   "corePct": 9.333333333333334,
+   "dataPct": 67,
+   "timeWinPct": 23.666666666666668,
+   "drawPct": 0.3333333333333333,
+   "drawNonTime": 1,
+   "sdKillPct": 6.333333333333333,
+   "distinct": 298,
+   "reclaims": 0.0033333333333333335,
+   "repairs": 2.33,
+   "links": 17.333333333333332,
+   "linkKills": 6.963333333333333,
+   "linkGames": 95,
+   "honey": 0.9933333333333333,
+   "neutralShare": 51.606323304436515,
+   "dataPerGame": 19.61,
+   "dataWinTurn": 14.661691542288557,
+   "neutralPer": 10.12,
+   "breachPer": 0,
+   "vaultPer": 9.49,
+   "siegerBreachAvg": 0,
+   "siegerGatePct": 0,
+   "siegerGateTurn": 0,
+   "siegerCoreDmg": 0,
+   "gateAll": {
+    "n": 600,
+    "pct": 23.166666666666668,
+    "turn": 17.64748201438849,
+    "by12": 1.3333333333333333
+   },
+   "gateByStyle": {
+    "balanced": {
+     "n": 300,
+     "pct": 14,
+     "turn": 18.476190476190474,
+     "by12": 0
+    },
+    "raider": {
+     "n": 300,
+     "pct": 32.333333333333336,
+     "turn": 17.288659793814432,
+     "by12": 2.6666666666666665
+    }
+   },
+   "siegerEngage": {
+    "pct": 0,
+    "turn": 0,
+    "by5": 0
+   },
+   "siegerWave": {
+    "allLostPct": 0,
+    "linkShare": 0,
+    "jackShare": 0,
+    "tbShare": 0,
+    "otherShare": 0,
+    "n": 0,
+    "wipedPct": 0,
+    "size": 0,
+    "houndKillShare": 0,
+    "turn": 0
+   },
+   "heatAll": {
+    "n": 600,
+    "pull": 0.215,
+    "high": 0.6283333333333333,
+    "tb": 0.885,
+    "pullAny": 18.833333333333332
+   },
+   "heatByStyle": {
+    "balanced": {
+     "n": 300,
+     "pull": 0.10333333333333333,
+     "high": 0.17666666666666667,
+     "tb": 0.13,
+     "pullAny": 10
+    },
+    "raider": {
+     "n": 300,
+     "pull": 0.32666666666666666,
+     "high": 1.08,
+     "tb": 1.64,
+     "pullAny": 27.666666666666668
+    }
+   },
+   "aWinPct": 64,
+   "bWinPct": 35.666666666666664,
+   "styleWin": {
+    "raider": 88,
+    "balanced": 12
+   },
+   "styleGames": {
+    "raider": 100,
+    "balanced": 100
+   }
+  }
+ },
+ "mixed": {
+  "C+D1+D2": {
+   "n": 500,
+   "coreDmgPct": 100,
+   "decisivePct": 4,
+   "meanLoss": 25.615,
+   "turns": 20,
+   "timePct": 99.8,
+   "corePct": 0.2,
+   "dataPct": 0,
+   "timeWinPct": 96.8,
+   "drawPct": 3,
+   "drawNonTime": 0,
+   "sdKillPct": 0.2,
+   "distinct": 408,
+   "reclaims": 0,
+   "repairs": 9.278,
+   "links": 4.78,
+   "linkKills": 1.998,
+   "linkGames": 61.2,
+   "honey": 0.926,
+   "neutralShare": 53.763099396633855,
+   "dataPerGame": 18.894,
+   "dataWinTurn": 0,
+   "neutralPer": 10.158,
+   "breachPer": 0,
+   "vaultPer": 8.736,
+   "siegerBreachAvg": 0,
+   "siegerGatePct": 9,
+   "siegerGateTurn": 10.555555555555555,
+   "siegerCoreDmg": 0,
+   "gateAll": {
+    "n": 1000,
+    "pct": 4.5,
+    "turn": 13.666666666666666,
+    "by12": 1.4
+   },
+   "gateByStyle": {
+    "balanced": {
+     "n": 200,
+     "pct": 0,
+     "turn": 0,
+     "by12": 0
+    },
+    "raider": {
+     "n": 200,
+     "pct": 13.5,
+     "turn": 15.74074074074074,
+     "by12": 2
+    },
+    "turtle": {
+     "n": 200,
+     "pct": 0,
+     "turn": 0,
+     "by12": 0
+    },
+    "thief": {
+     "n": 200,
+     "pct": 0,
+     "turn": 0,
+     "by12": 0
+    },
+    "sieger": {
+     "n": 200,
+     "pct": 9,
+     "turn": 10.555555555555555,
+     "by12": 5
+    }
+   },
+   "siegerEngage": {
+    "pct": 99.5,
+    "turn": 3.5728643216080402,
+    "by5": 95.5
+   },
+   "siegerWave": {
+    "allLostPct": 96.5,
+    "linkShare": 4.166666666666667,
+    "jackShare": 14.833333333333334,
+    "tbShare": 71.33333333333333,
+    "otherShare": 0,
+    "n": 200,
+    "wipedPct": 7,
+    "size": 3,
+    "houndKillShare": 9.666666666666666,
+    "turn": 2
+   },
+   "heatAll": {
+    "n": 1000,
+    "pull": 0.459,
+    "high": 1.169,
+    "tb": 1.173,
+    "pullAny": 29.5
+   },
+   "heatByStyle": {
+    "balanced": {
+     "n": 200,
+     "pull": 0.19,
+     "high": 0.375,
+     "tb": 0.165,
+     "pullAny": 18
+    },
+    "raider": {
+     "n": 200,
+     "pull": 0.77,
+     "high": 2.025,
+     "tb": 2.68,
+     "pullAny": 47
+    },
+    "turtle": {
+     "n": 200,
+     "pull": 0.03,
+     "high": 0.055,
+     "tb": 0.025,
+     "pullAny": 3
+    },
+    "thief": {
+     "n": 200,
+     "pull": 0.11,
+     "high": 0.28,
+     "tb": 0.19,
+     "pullAny": 10.5
+    },
+    "sieger": {
+     "n": 200,
+     "pull": 1.195,
+     "high": 3.11,
+     "tb": 2.805,
+     "pullAny": 69
+    }
+   },
+   "aWinPct": 49,
+   "bWinPct": 48,
+   "styleWin": {
+    "balanced": 46.25,
+    "raider": 86.25,
+    "turtle": 45,
+    "thief": 65.625,
+    "sieger": 1.875
+   },
+   "styleGames": {
+    "balanced": 160,
+    "raider": 160,
+    "turtle": 160,
+    "thief": 160,
+    "sieger": 160
+   }
+  },
+  "C+D1+D2+D3": {
+   "n": 500,
+   "coreDmgPct": 100,
+   "decisivePct": 4,
+   "meanLoss": 25.615,
+   "turns": 20,
+   "timePct": 99.8,
+   "corePct": 0.2,
+   "dataPct": 0,
+   "timeWinPct": 97,
+   "drawPct": 2.8,
+   "drawNonTime": 0,
+   "sdKillPct": 0.2,
+   "distinct": 409,
+   "reclaims": 0,
+   "repairs": 9.278,
+   "links": 4.78,
+   "linkKills": 1.998,
+   "linkGames": 61.2,
+   "honey": 0.926,
+   "neutralShare": 52.14461791290058,
+   "dataPerGame": 18.255,
+   "dataWinTurn": 0,
+   "neutralPer": 9.519,
+   "breachPer": 0,
+   "vaultPer": 8.736,
+   "siegerBreachAvg": 0,
+   "siegerGatePct": 9,
+   "siegerGateTurn": 10.555555555555555,
+   "siegerCoreDmg": 0,
+   "gateAll": {
+    "n": 1000,
+    "pct": 4.5,
+    "turn": 13.666666666666666,
+    "by12": 1.4
+   },
+   "gateByStyle": {
+    "balanced": {
+     "n": 200,
+     "pct": 0,
+     "turn": 0,
+     "by12": 0
+    },
+    "raider": {
+     "n": 200,
+     "pct": 13.5,
+     "turn": 15.74074074074074,
+     "by12": 2
+    },
+    "turtle": {
+     "n": 200,
+     "pct": 0,
+     "turn": 0,
+     "by12": 0
+    },
+    "thief": {
+     "n": 200,
+     "pct": 0,
+     "turn": 0,
+     "by12": 0
+    },
+    "sieger": {
+     "n": 200,
+     "pct": 9,
+     "turn": 10.555555555555555,
+     "by12": 5
+    }
+   },
+   "siegerEngage": {
+    "pct": 99.5,
+    "turn": 3.5728643216080402,
+    "by5": 95.5
+   },
+   "siegerWave": {
+    "allLostPct": 96.5,
+    "linkShare": 4.166666666666667,
+    "jackShare": 14.833333333333334,
+    "tbShare": 71.33333333333333,
+    "otherShare": 0,
+    "n": 200,
+    "wipedPct": 7,
+    "size": 3,
+    "houndKillShare": 9.666666666666666,
+    "turn": 2
+   },
+   "heatAll": {
+    "n": 1000,
+    "pull": 0.459,
+    "high": 1.169,
+    "tb": 1.173,
+    "pullAny": 29.5
+   },
+   "heatByStyle": {
+    "balanced": {
+     "n": 200,
+     "pull": 0.19,
+     "high": 0.375,
+     "tb": 0.165,
+     "pullAny": 18
+    },
+    "raider": {
+     "n": 200,
+     "pull": 0.77,
+     "high": 2.025,
+     "tb": 2.68,
+     "pullAny": 47
+    },
+    "turtle": {
+     "n": 200,
+     "pull": 0.03,
+     "high": 0.055,
+     "tb": 0.025,
+     "pullAny": 3
+    },
+    "thief": {
+     "n": 200,
+     "pull": 0.11,
+     "high": 0.28,
+     "tb": 0.19,
+     "pullAny": 10.5
+    },
+    "sieger": {
+     "n": 200,
+     "pull": 1.195,
+     "high": 3.11,
+     "tb": 2.805,
+     "pullAny": 69
+    }
+   },
+   "aWinPct": 49.8,
+   "bWinPct": 47.4,
+   "styleWin": {
+    "balanced": 47.5,
+    "raider": 89.375,
+    "turtle": 44.375,
+    "thief": 61.875,
+    "sieger": 1.875
+   },
+   "styleGames": {
+    "balanced": 160,
+    "raider": 160,
+    "turtle": 160,
+    "thief": 160,
+    "sieger": 160
+   }
+  },
+  "A+B+C+D1+D2+D3": {
+   "n": 500,
+   "coreDmgPct": 100,
+   "decisivePct": 77.6,
+   "meanLoss": 45.962,
+   "turns": 19.786,
+   "timePct": 83.8,
+   "corePct": 16.2,
+   "dataPct": 0,
+   "timeWinPct": 81,
+   "drawPct": 2.8,
+   "drawNonTime": 0,
+   "sdKillPct": 13,
+   "distinct": 478,
+   "reclaims": 0.014,
+   "repairs": 6.778,
+   "links": 7.838,
+   "linkKills": 3.542,
+   "linkGames": 79.6,
+   "honey": 1.164,
+   "neutralShare": 51.74546647298627,
+   "dataPerGame": 21.341,
+   "dataWinTurn": 0,
+   "neutralPer": 11.043,
+   "breachPer": 0,
+   "vaultPer": 10.298,
+   "siegerBreachAvg": 0,
+   "siegerGatePct": 84.5,
+   "siegerGateTurn": 16.088757396449704,
+   "siegerCoreDmg": 0,
+   "gateAll": {
+    "n": 1000,
+    "pct": 56.2,
+    "turn": 17.72064056939502,
+    "by12": 1.5
+   },
+   "gateByStyle": {
+    "balanced": {
+     "n": 200,
+     "pct": 57.5,
+     "turn": 18.62608695652174,
+     "by12": 0
+    },
+    "raider": {
+     "n": 200,
+     "pct": 71,
+     "turn": 17.683098591549296,
+     "by12": 2.5
+    },
+    "turtle": {
+     "n": 200,
+     "pct": 19.5,
+     "turn": 19.41025641025641,
+     "by12": 0
+    },
+    "thief": {
+     "n": 200,
+     "pct": 48.5,
+     "turn": 18.8659793814433,
+     "by12": 0
+    },
+    "sieger": {
+     "n": 200,
+     "pct": 84.5,
+     "turn": 16.088757396449704,
+     "by12": 5
+    }
+   },
+   "siegerEngage": {
+    "pct": 100,
+    "turn": 3.515,
+    "by5": 95.5
+   },
+   "siegerWave": {
+    "allLostPct": 96,
+    "linkShare": 4.166666666666667,
+    "jackShare": 14.833333333333334,
+    "tbShare": 71.33333333333333,
+    "otherShare": 0,
+    "n": 200,
+    "wipedPct": 7,
+    "size": 3,
+    "houndKillShare": 9.666666666666666,
+    "turn": 2
+   },
+   "heatAll": {
+    "n": 1000,
+    "pull": 0.324,
+    "high": 0.757,
+    "tb": 0.804,
+    "pullAny": 25.6
+   },
+   "heatByStyle": {
+    "balanced": {
+     "n": 200,
+     "pull": 0.19,
+     "high": 0.3,
+     "tb": 0.165,
+     "pullAny": 18.5
+    },
+    "raider": {
+     "n": 200,
+     "pull": 0.465,
+     "high": 1.215,
+     "tb": 1.65,
+     "pullAny": 37
+    },
+    "turtle": {
+     "n": 200,
+     "pull": 0.035,
+     "high": 0.065,
+     "tb": 0.035,
+     "pullAny": 3.5
+    },
+    "thief": {
+     "n": 200,
+     "pull": 0.105,
+     "high": 0.255,
+     "tb": 0.165,
+     "pullAny": 10
+    },
+    "sieger": {
+     "n": 200,
+     "pull": 0.825,
+     "high": 1.95,
+     "tb": 2.005,
+     "pullAny": 59
+    }
+   },
+   "aWinPct": 49.2,
+   "bWinPct": 48,
+   "styleWin": {
+    "balanced": 59.375,
+    "raider": 75,
+    "turtle": 38.75,
+    "thief": 67.5,
+    "sieger": 4.375
+   },
+   "styleGames": {
+    "balanced": 160,
+    "raider": 160,
+    "turtle": 160,
+    "thief": 160,
+    "sieger": 160
+   }
+  },
+  "off": {
+   "n": 500,
+   "coreDmgPct": 1.4,
+   "decisivePct": 0.2,
+   "meanLoss": 0.218,
+   "turns": 11.25,
+   "timePct": 4,
+   "corePct": 0,
+   "dataPct": 96,
+   "timeWinPct": 3.8,
+   "drawPct": 0.4,
+   "drawNonTime": 1,
+   "sdKillPct": 0,
+   "distinct": 492,
+   "reclaims": 0,
+   "repairs": 0.034,
+   "links": 4.258,
+   "linkKills": 1.758,
+   "linkGames": 59,
+   "honey": 0.814,
+   "neutralShare": 67.01484952854159,
+   "dataPerGame": 17.711,
+   "dataWinTurn": 10.885416666666666,
+   "neutralPer": 11.869,
+   "breachPer": 0,
+   "vaultPer": 5.842,
+   "siegerBreachAvg": 0,
+   "siegerGatePct": 6.5,
+   "siegerGateTurn": 8.153846153846153,
+   "siegerCoreDmg": 0,
+   "gateAll": {
+    "n": 1000,
+    "pct": 1.7,
+    "turn": 8.647058823529411,
+    "by12": 1.4
+   },
+   "gateByStyle": {
+    "balanced": {
+     "n": 200,
+     "pct": 0,
+     "turn": 0,
+     "by12": 0
+    },
+    "raider": {
+     "n": 200,
+     "pct": 2,
+     "turn": 10.25,
+     "by12": 2
+    },
+    "turtle": {
+     "n": 200,
+     "pct": 0,
+     "turn": 0,
+     "by12": 0
+    },
+    "thief": {
+     "n": 200,
+     "pct": 0,
+     "turn": 0,
+     "by12": 0
+    },
+    "sieger": {
+     "n": 200,
+     "pct": 6.5,
+     "turn": 8.153846153846153,
+     "by12": 5
+    }
+   },
+   "siegerEngage": {
+    "pct": 97.5,
+    "turn": 3.3384615384615386,
+    "by5": 95.5
+   },
+   "siegerWave": {
+    "allLostPct": 96.5,
+    "linkShare": 4.166666666666667,
+    "jackShare": 14.833333333333334,
+    "tbShare": 71.33333333333333,
+    "otherShare": 0,
+    "n": 200,
+    "wipedPct": 7,
+    "size": 3,
+    "houndKillShare": 9.666666666666666,
+    "turn": 2
+   },
+   "heatAll": {
+    "n": 1000,
+    "pull": 0.309,
+    "high": 0.748,
+    "tb": 0.896,
+    "pullAny": 24.2
+   },
+   "heatByStyle": {
+    "balanced": {
+     "n": 200,
+     "pull": 0.17,
+     "high": 0.275,
+     "tb": 0.14,
+     "pullAny": 16.5
+    },
+    "raider": {
+     "n": 200,
+     "pull": 0.4,
+     "high": 1.02,
+     "tb": 1.76,
+     "pullAny": 32
+    },
+    "turtle": {
+     "n": 200,
+     "pull": 0.03,
+     "high": 0.05,
+     "tb": 0.025,
+     "pullAny": 3
+    },
+    "thief": {
+     "n": 200,
+     "pull": 0.08,
+     "high": 0.205,
+     "tb": 0.155,
+     "pullAny": 8
+    },
+    "sieger": {
+     "n": 200,
+     "pull": 0.865,
+     "high": 2.19,
+     "tb": 2.4,
+     "pullAny": 61.5
+    }
+   },
+   "aWinPct": 51,
+   "bWinPct": 48.6,
+   "styleWin": {
+    "balanced": 46.25,
+    "raider": 91.25,
+    "turtle": 42.5,
+    "thief": 58.125,
+    "sieger": 11.25
+   },
+   "styleGames": {
+    "balanced": 160,
+    "raider": 160,
+    "turtle": 160,
+    "thief": 160,
+    "sieger": 160
+   }
+  },
+  "A+B+C": {
+   "n": 500,
+   "coreDmgPct": 14.2,
+   "decisivePct": 4.6,
+   "meanLoss": 4.096,
+   "turns": 11.308,
+   "timePct": 1,
+   "corePct": 3.2,
+   "dataPct": 95.8,
+   "timeWinPct": 0.6,
+   "drawPct": 1.2,
+   "drawNonTime": 4,
+   "sdKillPct": 2.2,
+   "distinct": 494,
+   "reclaims": 0.004,
+   "repairs": 0.442,
+   "links": 5.114,
+   "linkKills": 2.136,
+   "linkGames": 66.6,
+   "honey": 0.88,
+   "neutralShare": 66.18195578139358,
+   "dataPerGame": 18.499,
+   "dataWinTurn": 11.004175365344468,
+   "neutralPer": 12.243,
+   "breachPer": 0,
+   "vaultPer": 6.256,
+   "siegerBreachAvg": 0,
+   "siegerGatePct": 26.5,
+   "siegerGateTurn": 14.452830188679245,
+   "siegerCoreDmg": 0,
+   "gateAll": {
+    "n": 1000,
+    "pct": 6.9,
+    "turn": 14.565217391304348,
+    "by12": 1.3
+   },
+   "gateByStyle": {
+    "balanced": {
+     "n": 200,
+     "pct": 2,
+     "turn": 15.75,
+     "by12": 0
+    },
+    "raider": {
+     "n": 200,
+     "pct": 3.5,
+     "turn": 12.857142857142858,
+     "by12": 1.5
+    },
+    "turtle": {
+     "n": 200,
+     "pct": 1,
+     "turn": 18,
+     "by12": 0
+    },
+    "thief": {
+     "n": 200,
+     "pct": 1.5,
+     "turn": 16.666666666666668,
+     "by12": 0
+    },
+    "sieger": {
+     "n": 200,
+     "pct": 26.5,
+     "turn": 14.452830188679245,
+     "by12": 5
+    }
+   },
+   "siegerEngage": {
+    "pct": 99,
+    "turn": 3.4292929292929295,
+    "by5": 95.5
+   },
+   "siegerWave": {
+    "allLostPct": 96,
+    "linkShare": 4.166666666666667,
+    "jackShare": 14.833333333333334,
+    "tbShare": 71.33333333333333,
+    "otherShare": 0,
+    "n": 200,
+    "wipedPct": 7,
+    "size": 3,
+    "houndKillShare": 9.5,
+    "turn": 2
+   },
+   "heatAll": {
+    "n": 1000,
+    "pull": 0.257,
+    "high": 0.593,
+    "tb": 0.738,
+    "pullAny": 22.2
+   },
+   "heatByStyle": {
+    "balanced": {
+     "n": 200,
+     "pull": 0.18,
+     "high": 0.26,
+     "tb": 0.145,
+     "pullAny": 17.5
+    },
+    "raider": {
+     "n": 200,
+     "pull": 0.32,
+     "high": 0.825,
+     "tb": 1.51,
+     "pullAny": 28.5
+    },
+    "turtle": {
+     "n": 200,
+     "pull": 0.025,
+     "high": 0.045,
+     "tb": 0.025,
+     "pullAny": 2.5
+    },
+    "thief": {
+     "n": 200,
+     "pull": 0.08,
+     "high": 0.195,
+     "tb": 0.15,
+     "pullAny": 8
+    },
+    "sieger": {
+     "n": 200,
+     "pull": 0.68,
+     "high": 1.64,
+     "tb": 1.86,
+     "pullAny": 54.5
+    }
+   },
+   "aWinPct": 51.6,
+   "bWinPct": 47.2,
+   "styleWin": {
+    "balanced": 51.25,
+    "raider": 86.875,
+    "turtle": 41.875,
+    "thief": 62.5,
+    "sieger": 5
+   },
+   "styleGames": {
+    "balanced": 160,
+    "raider": 160,
+    "turtle": 160,
+    "thief": 160,
+    "sieger": 160
+   }
+  },
+  "A+B+C+D2+D3 (참고)": {
+   "n": 500,
+   "coreDmgPct": 51.6,
+   "decisivePct": 23.2,
+   "meanLoss": 16.56,
+   "turns": 15.148,
+   "timePct": 13.8,
+   "corePct": 7.4,
+   "dataPct": 78.8,
+   "timeWinPct": 13.2,
+   "drawPct": 0.8,
+   "drawNonTime": 1,
+   "sdKillPct": 5.8,
+   "distinct": 496,
+   "reclaims": 0.006,
+   "repairs": 2.068,
+   "links": 6.996,
+   "linkKills": 3.026,
+   "linkGames": 75,
+   "honey": 1.044,
+   "neutralShare": 52.9065897492789,
+   "dataPerGame": 18.028,
+   "dataWinTurn": 14.00507614213198,
+   "neutralPer": 9.538,
+   "breachPer": 0,
+   "vaultPer": 8.49,
+   "siegerBreachAvg": 0,
+   "siegerGatePct": 53.5,
+   "siegerGateTurn": 15.373831775700934,
+   "siegerCoreDmg": 0,
+   "gateAll": {
+    "n": 1000,
+    "pct": 22.6,
+    "turn": 16.327433628318584,
+    "by12": 1.6
+   },
+   "gateByStyle": {
+    "balanced": {
+     "n": 200,
+     "pct": 15.5,
+     "turn": 17.677419354838708,
+     "by12": 0
+    },
+    "raider": {
+     "n": 200,
+     "pct": 32.5,
+     "turn": 16.6,
+     "by12": 2.5
+    },
+    "turtle": {
+     "n": 200,
+     "pct": 2.5,
+     "turn": 18.2,
+     "by12": 0
+    },
+    "thief": {
+     "n": 200,
+     "pct": 9,
+     "turn": 18.166666666666668,
+     "by12": 0
+    },
+    "sieger": {
+     "n": 200,
+     "pct": 53.5,
+     "turn": 15.373831775700934,
+     "by12": 5.5
+    }
+   },
+   "siegerEngage": {
+    "pct": 100,
+    "turn": 3.515,
+    "by5": 95.5
+   },
+   "siegerWave": {
+    "allLostPct": 96,
+    "linkShare": 4.166666666666667,
+    "jackShare": 14.833333333333334,
+    "tbShare": 71.33333333333333,
+    "otherShare": 0,
+    "n": 200,
+    "wipedPct": 7,
+    "size": 3,
+    "houndKillShare": 9.666666666666666,
+    "turn": 2
+   },
+   "heatAll": {
+    "n": 1000,
+    "pull": 0.301,
+    "high": 0.709,
+    "tb": 0.788,
+    "pullAny": 24.3
+   },
+   "heatByStyle": {
+    "balanced": {
+     "n": 200,
+     "pull": 0.185,
+     "high": 0.295,
+     "tb": 0.165,
+     "pullAny": 18
+    },
+    "raider": {
+     "n": 200,
+     "pull": 0.41,
+     "high": 1.075,
+     "tb": 1.615,
+     "pullAny": 33.5
+    },
+    "turtle": {
+     "n": 200,
+     "pull": 0.035,
+     "high": 0.065,
+     "tb": 0.03,
+     "pullAny": 3.5
+    },
+    "thief": {
+     "n": 200,
+     "pull": 0.1,
+     "high": 0.24,
+     "tb": 0.165,
+     "pullAny": 9.5
+    },
+    "sieger": {
+     "n": 200,
+     "pull": 0.775,
+     "high": 1.87,
+     "tb": 1.965,
+     "pullAny": 57
+    }
+   },
+   "aWinPct": 52.2,
+   "bWinPct": 47,
+   "styleWin": {
+    "balanced": 55,
+    "raider": 81.875,
+    "turtle": 41.25,
+    "thief": 70.625,
+    "sieger": 0
+   },
+   "styleGames": {
+    "balanced": 160,
+    "raider": 160,
+    "turtle": 160,
+    "thief": 160,
+    "sieger": 160
+   }
+  }
+ },
+ "perMatchup": {
+  "C+D1+D2": {
+   "balanced-balanced": {
+    "n": 100,
+    "coreDmgPct": 100,
+    "decisivePct": 0,
+    "meanLoss": 22,
+    "turns": 20,
+    "timePct": 100,
+    "corePct": 0,
+    "dataPct": 0,
+    "timeWinPct": 93,
+    "drawPct": 7,
+    "drawNonTime": 0,
+    "sdKillPct": 0,
+    "distinct": 73,
+    "reclaims": 0,
+    "repairs": 10,
+    "links": 4.1,
+    "linkKills": 2.29,
+    "linkGames": 73,
+    "honey": 0.95,
+    "neutralShare": 47.830499873128645,
+    "dataPerGame": 19.705,
+    "dataWinTurn": 0,
+    "neutralPer": 9.425,
+    "breachPer": 0,
+    "vaultPer": 10.28,
+    "siegerBreachAvg": 0,
+    "siegerGatePct": 0,
+    "siegerGateTurn": 0,
+    "siegerCoreDmg": 0,
+    "gateAll": {
+     "n": 200,
+     "pct": 0,
+     "turn": 0,
+     "by12": 0
+    },
+    "gateByStyle": {
+     "balanced": {
+      "n": 200,
+      "pct": 0,
+      "turn": 0,
+      "by12": 0
+     }
+    },
+    "siegerEngage": {
+     "pct": 0,
+     "turn": 0,
+     "by5": 0
+    },
+    "siegerWave": {
+     "allLostPct": 0,
+     "linkShare": 0,
+     "jackShare": 0,
+     "tbShare": 0,
+     "otherShare": 0,
+     "n": 0,
+     "wipedPct": 0,
+     "size": 0,
+     "houndKillShare": 0,
+     "turn": 0
+    },
+    "heatAll": {
+     "n": 200,
+     "pull": 0.12,
+     "high": 0.19,
+     "tb": 0.12,
+     "pullAny": 12
+    },
+    "heatByStyle": {
+     "balanced": {
+      "n": 200,
+      "pull": 0.12,
+      "high": 0.19,
+      "tb": 0.12,
+      "pullAny": 12
+     }
+    },
+    "aWinPct": 58,
+    "bWinPct": 35,
+    "styleWin": {},
+    "styleGames": {}
+   },
+   "raider-balanced": {
+    "n": 100,
+    "coreDmgPct": 100,
+    "decisivePct": 3,
+    "meanLoss": 29.11,
+    "turns": 20,
+    "timePct": 100,
+    "corePct": 0,
+    "dataPct": 0,
+    "timeWinPct": 100,
+    "drawPct": 0,
+    "drawNonTime": 0,
+    "sdKillPct": 0,
+    "distinct": 95,
+    "reclaims": 0,
+    "repairs": 8.01,
+    "links": 7.49,
+    "linkKills": 3.19,
+    "linkGames": 89,
+    "honey": 0.71,
+    "neutralShare": 48.1500253421186,
+    "dataPerGame": 19.73,
+    "dataWinTurn": 0,
+    "neutralPer": 9.5,
+    "breachPer": 0,
+    "vaultPer": 10.23,
+    "siegerBreachAvg": 0,
+    "siegerGatePct": 0,
+    "siegerGateTurn": 0,
+    "siegerCoreDmg": 0,
+    "gateAll": {
+     "n": 200,
+     "pct": 2.5,
+     "turn": 14.2,
+     "by12": 1
+    },
+    "gateByStyle": {
+     "balanced": {
+      "n": 100,
+      "pct": 0,
+      "turn": 0,
+      "by12": 0
+     },
+     "raider": {
+      "n": 100,
+      "pct": 5,
+      "turn": 14.2,
+      "by12": 2
+     }
+    },
+    "siegerEngage": {
+     "pct": 0,
+     "turn": 0,
+     "by5": 0
+    },
+    "siegerWave": {
+     "allLostPct": 0,
+     "linkShare": 0,
+     "jackShare": 0,
+     "tbShare": 0,
+     "otherShare": 0,
+     "n": 0,
+     "wipedPct": 0,
+     "size": 0,
+     "houndKillShare": 0,
+     "turn": 0
+    },
+    "heatAll": {
+     "n": 200,
+     "pull": 0.425,
+     "high": 1.15,
+     "tb": 1.255,
+     "pullAny": 29.5
+    },
+    "heatByStyle": {
+     "balanced": {
+      "n": 100,
+      "pull": 0.09,
+      "high": 0.25,
+      "tb": 0.14,
+      "pullAny": 9
+     },
+     "raider": {
+      "n": 100,
+      "pull": 0.76,
+      "high": 2.05,
+      "tb": 2.37,
+      "pullAny": 50
+     }
+    },
+    "aWinPct": 95,
+    "bWinPct": 5,
+    "styleWin": {
+     "raider": 95,
+     "balanced": 5
+    },
+    "styleGames": {
+     "raider": 100,
+     "balanced": 100
+    }
+   },
+   "raider-raider": {
+    "n": 100,
+    "coreDmgPct": 100,
+    "decisivePct": 27,
+    "meanLoss": 38.94,
+    "turns": 20,
+    "timePct": 100,
+    "corePct": 0,
+    "dataPct": 0,
+    "timeWinPct": 99,
+    "drawPct": 1,
+    "drawNonTime": 0,
+    "sdKillPct": 0,
+    "distinct": 100,
+    "reclaims": 0,
+    "repairs": 6.3,
+    "links": 31.24,
+    "linkKills": 10.96,
+    "linkGames": 100,
+    "honey": 0.77,
+    "neutralShare": 57.0084200099059,
+    "dataPerGame": 20.19,
+    "dataWinTurn": 0,
+    "neutralPer": 11.51,
+    "breachPer": 0,
+    "vaultPer": 8.68,
+    "siegerBreachAvg": 0,
+    "siegerGatePct": 0,
+    "siegerGateTurn": 0,
+    "siegerCoreDmg": 0,
+    "gateAll": {
+     "n": 200,
+     "pct": 11,
+     "turn": 15.636363636363637,
+     "by12": 2.5
+    },
+    "gateByStyle": {
+     "raider": {
+      "n": 200,
+      "pct": 11,
+      "turn": 15.636363636363637,
+      "by12": 2.5
+     }
+    },
+    "siegerEngage": {
+     "pct": 0,
+     "turn": 0,
+     "by5": 0
+    },
+    "siegerWave": {
+     "allLostPct": 0,
+     "linkShare": 0,
+     "jackShare": 0,
+     "tbShare": 0,
+     "otherShare": 0,
+     "n": 0,
+     "wipedPct": 0,
+     "size": 0,
+     "houndKillShare": 0,
+     "turn": 0
+    },
+    "heatAll": {
+     "n": 200,
+     "pull": 0.455,
+     "high": 1.585,
+     "tb": 3.015,
+     "pullAny": 36.5
+    },
+    "heatByStyle": {
+     "raider": {
+      "n": 200,
+      "pull": 0.455,
+      "high": 1.585,
+      "tb": 3.015,
+      "pullAny": 36.5
+     }
+    },
+    "aWinPct": 41,
+    "bWinPct": 58,
+    "styleWin": {},
+    "styleGames": {}
+   }
+  },
+  "C+D1+D2+D3": {
+   "balanced-balanced": {
+    "n": 100,
+    "coreDmgPct": 100,
+    "decisivePct": 0,
+    "meanLoss": 22,
+    "turns": 20,
+    "timePct": 100,
+    "corePct": 0,
+    "dataPct": 0,
+    "timeWinPct": 93,
+    "drawPct": 7,
+    "drawNonTime": 0,
+    "sdKillPct": 0,
+    "distinct": 73,
+    "reclaims": 0,
+    "repairs": 10,
+    "links": 4.1,
+    "linkKills": 2.29,
+    "linkGames": 73,
+    "honey": 0.95,
+    "neutralShare": 46.107470511140235,
+    "dataPerGame": 19.075,
+    "dataWinTurn": 0,
+    "neutralPer": 8.795,
+    "breachPer": 0,
+    "vaultPer": 10.28,
+    "siegerBreachAvg": 0,
+    "siegerGatePct": 0,
+    "siegerGateTurn": 0,
+    "siegerCoreDmg": 0,
+    "gateAll": {
+     "n": 200,
+     "pct": 0,
+     "turn": 0,
+     "by12": 0
+    },
+    "gateByStyle": {
+     "balanced": {
+      "n": 200,
+      "pct": 0,
+      "turn": 0,
+      "by12": 0
+     }
+    },
+    "siegerEngage": {
+     "pct": 0,
+     "turn": 0,
+     "by5": 0
+    },
+    "siegerWave": {
+     "allLostPct": 0,
+     "linkShare": 0,
+     "jackShare": 0,
+     "tbShare": 0,
+     "otherShare": 0,
+     "n": 0,
+     "wipedPct": 0,
+     "size": 0,
+     "houndKillShare": 0,
+     "turn": 0
+    },
+    "heatAll": {
+     "n": 200,
+     "pull": 0.12,
+     "high": 0.19,
+     "tb": 0.12,
+     "pullAny": 12
+    },
+    "heatByStyle": {
+     "balanced": {
+      "n": 200,
+      "pull": 0.12,
+      "high": 0.19,
+      "tb": 0.12,
+      "pullAny": 12
+     }
+    },
+    "aWinPct": 58,
+    "bWinPct": 35,
+    "styleWin": {},
+    "styleGames": {}
+   },
+   "raider-balanced": {
+    "n": 100,
+    "coreDmgPct": 100,
+    "decisivePct": 3,
+    "meanLoss": 29.11,
+    "turns": 20,
+    "timePct": 100,
+    "corePct": 0,
+    "dataPct": 0,
+    "timeWinPct": 100,
+    "drawPct": 0,
+    "drawNonTime": 0,
+    "sdKillPct": 0,
+    "distinct": 90,
+    "reclaims": 0,
+    "repairs": 8.01,
+    "links": 7.49,
+    "linkKills": 3.19,
+    "linkGames": 89,
+    "honey": 0.71,
+    "neutralShare": 45.04431909750201,
+    "dataPerGame": 18.615,
+    "dataWinTurn": 0,
+    "neutralPer": 8.385,
+    "breachPer": 0,
+    "vaultPer": 10.23,
+    "siegerBreachAvg": 0,
+    "siegerGatePct": 0,
+    "siegerGateTurn": 0,
+    "siegerCoreDmg": 0,
+    "gateAll": {
+     "n": 200,
+     "pct": 2.5,
+     "turn": 14.2,
+     "by12": 1
+    },
+    "gateByStyle": {
+     "balanced": {
+      "n": 100,
+      "pct": 0,
+      "turn": 0,
+      "by12": 0
+     },
+     "raider": {
+      "n": 100,
+      "pct": 5,
+      "turn": 14.2,
+      "by12": 2
+     }
+    },
+    "siegerEngage": {
+     "pct": 0,
+     "turn": 0,
+     "by5": 0
+    },
+    "siegerWave": {
+     "allLostPct": 0,
+     "linkShare": 0,
+     "jackShare": 0,
+     "tbShare": 0,
+     "otherShare": 0,
+     "n": 0,
+     "wipedPct": 0,
+     "size": 0,
+     "houndKillShare": 0,
+     "turn": 0
+    },
+    "heatAll": {
+     "n": 200,
+     "pull": 0.425,
+     "high": 1.15,
+     "tb": 1.255,
+     "pullAny": 29.5
+    },
+    "heatByStyle": {
+     "balanced": {
+      "n": 100,
+      "pull": 0.09,
+      "high": 0.25,
+      "tb": 0.14,
+      "pullAny": 9
+     },
+     "raider": {
+      "n": 100,
+      "pull": 0.76,
+      "high": 2.05,
+      "tb": 2.37,
+      "pullAny": 50
+     }
+    },
+    "aWinPct": 96,
+    "bWinPct": 4,
+    "styleWin": {
+     "raider": 96,
+     "balanced": 4
+    },
+    "styleGames": {
+     "raider": 100,
+     "balanced": 100
+    }
+   },
+   "raider-raider": {
+    "n": 100,
+    "coreDmgPct": 100,
+    "decisivePct": 27,
+    "meanLoss": 38.94,
+    "turns": 20,
+    "timePct": 100,
+    "corePct": 0,
+    "dataPct": 0,
+    "timeWinPct": 99,
+    "drawPct": 1,
+    "drawNonTime": 0,
+    "sdKillPct": 0,
+    "distinct": 100,
+    "reclaims": 0,
+    "repairs": 6.3,
+    "links": 31.24,
+    "linkKills": 10.96,
+    "linkGames": 100,
+    "honey": 0.77,
+    "neutralShare": 56.49122807017544,
+    "dataPerGame": 19.95,
+    "dataWinTurn": 0,
+    "neutralPer": 11.27,
+    "breachPer": 0,
+    "vaultPer": 8.68,
+    "siegerBreachAvg": 0,
+    "siegerGatePct": 0,
+    "siegerGateTurn": 0,
+    "siegerCoreDmg": 0,
+    "gateAll": {
+     "n": 200,
+     "pct": 11,
+     "turn": 15.636363636363637,
+     "by12": 2.5
+    },
+    "gateByStyle": {
+     "raider": {
+      "n": 200,
+      "pct": 11,
+      "turn": 15.636363636363637,
+      "by12": 2.5
+     }
+    },
+    "siegerEngage": {
+     "pct": 0,
+     "turn": 0,
+     "by5": 0
+    },
+    "siegerWave": {
+     "allLostPct": 0,
+     "linkShare": 0,
+     "jackShare": 0,
+     "tbShare": 0,
+     "otherShare": 0,
+     "n": 0,
+     "wipedPct": 0,
+     "size": 0,
+     "houndKillShare": 0,
+     "turn": 0
+    },
+    "heatAll": {
+     "n": 200,
+     "pull": 0.455,
+     "high": 1.585,
+     "tb": 3.015,
+     "pullAny": 36.5
+    },
+    "heatByStyle": {
+     "raider": {
+      "n": 200,
+      "pull": 0.455,
+      "high": 1.585,
+      "tb": 3.015,
+      "pullAny": 36.5
+     }
+    },
+    "aWinPct": 40,
+    "bWinPct": 59,
+    "styleWin": {},
+    "styleGames": {}
+   }
+  },
+  "A+B+C+D1+D2+D3": {
+   "balanced-balanced": {
+    "n": 100,
+    "coreDmgPct": 100,
+    "decisivePct": 82,
+    "meanLoss": 37.05,
+    "turns": 20,
+    "timePct": 100,
+    "corePct": 0,
+    "dataPct": 0,
+    "timeWinPct": 93,
+    "drawPct": 7,
+    "drawNonTime": 0,
+    "sdKillPct": 0,
+    "distinct": 97,
+    "reclaims": 0.03,
+    "repairs": 6.84,
+    "links": 8.52,
+    "linkKills": 4.92,
+    "linkGames": 95,
+    "honey": 1.37,
+    "neutralShare": 47.54922496857981,
+    "dataPerGame": 23.87,
+    "dataWinTurn": 0,
+    "neutralPer": 11.35,
+    "breachPer": 0,
+    "vaultPer": 12.52,
+    "siegerBreachAvg": 0,
+    "siegerGatePct": 0,
+    "siegerGateTurn": 0,
+    "siegerCoreDmg": 0,
+    "gateAll": {
+     "n": 200,
+     "pct": 54.5,
+     "turn": 19.229357798165136,
+     "by12": 0
+    },
+    "gateByStyle": {
+     "balanced": {
+      "n": 200,
+      "pct": 54.5,
+      "turn": 19.229357798165136,
+      "by12": 0
+     }
+    },
+    "siegerEngage": {
+     "pct": 0,
+     "turn": 0,
+     "by5": 0
+    },
+    "siegerWave": {
+     "allLostPct": 0,
+     "linkShare": 0,
+     "jackShare": 0,
+     "tbShare": 0,
+     "otherShare": 0,
+     "n": 0,
+     "wipedPct": 0,
+     "size": 0,
+     "houndKillShare": 0,
+     "turn": 0
+    },
+    "heatAll": {
+     "n": 200,
+     "pull": 0.1,
+     "high": 0.145,
+     "tb": 0.11,
+     "pullAny": 10
+    },
+    "heatByStyle": {
+     "balanced": {
+      "n": 200,
+      "pull": 0.1,
+      "high": 0.145,
+      "tb": 0.11,
+      "pullAny": 10
+     }
+    },
+    "aWinPct": 49,
+    "bWinPct": 44,
+    "styleWin": {},
+    "styleGames": {}
+   },
+   "raider-balanced": {
+    "n": 100,
+    "coreDmgPct": 100,
+    "decisivePct": 81,
+    "meanLoss": 48.33,
+    "turns": 19.87,
+    "timePct": 90,
+    "corePct": 10,
+    "dataPct": 0,
+    "timeWinPct": 90,
+    "drawPct": 0,
+    "drawNonTime": 0,
+    "sdKillPct": 8,
+    "distinct": 100,
+    "reclaims": 0,
+    "repairs": 5.39,
+    "links": 12.76,
+    "linkKills": 5.99,
+    "linkGames": 98,
+    "honey": 1.12,
+    "neutralShare": 48.956019546868056,
+    "dataPerGame": 22.51,
+    "dataWinTurn": 0,
+    "neutralPer": 11.02,
+    "breachPer": 0,
+    "vaultPer": 11.49,
+    "siegerBreachAvg": 0,
+    "siegerGatePct": 0,
+    "siegerGateTurn": 0,
+    "siegerCoreDmg": 0,
+    "gateAll": {
+     "n": 200,
+     "pct": 54.5,
+     "turn": 18.577981651376145,
+     "by12": 2
+    },
+    "gateByStyle": {
+     "balanced": {
+      "n": 100,
+      "pct": 33,
+      "turn": 18.96969696969697,
+      "by12": 0
+     },
+     "raider": {
+      "n": 100,
+      "pct": 76,
+      "turn": 18.407894736842106,
+      "by12": 4
+     }
+    },
+    "siegerEngage": {
+     "pct": 0,
+     "turn": 0,
+     "by5": 0
+    },
+    "siegerWave": {
+     "allLostPct": 0,
+     "linkShare": 0,
+     "jackShare": 0,
+     "tbShare": 0,
+     "otherShare": 0,
+     "n": 0,
+     "wipedPct": 0,
+     "size": 0,
+     "houndKillShare": 0,
+     "turn": 0
+    },
+    "heatAll": {
+     "n": 200,
+     "pull": 0.235,
+     "high": 0.65,
+     "tb": 0.735,
+     "pullAny": 20.5
+    },
+    "heatByStyle": {
+     "balanced": {
+      "n": 100,
+      "pull": 0.11,
+      "high": 0.24,
+      "tb": 0.18,
+      "pullAny": 10
+     },
+     "raider": {
+      "n": 100,
+      "pull": 0.36,
+      "high": 1.06,
+      "tb": 1.29,
+      "pullAny": 31
+     }
+    },
+    "aWinPct": 75,
+    "bWinPct": 25,
+    "styleWin": {
+     "raider": 75,
+     "balanced": 25
+    },
+    "styleGames": {
+     "raider": 100,
+     "balanced": 100
+    }
+   },
+   "raider-raider": {
+    "n": 100,
+    "coreDmgPct": 100,
+    "decisivePct": 99,
+    "meanLoss": 63.57,
+    "turns": 19.52,
+    "timePct": 58,
+    "corePct": 42,
+    "dataPct": 0,
+    "timeWinPct": 58,
+    "drawPct": 0,
+    "drawNonTime": 0,
+    "sdKillPct": 32,
+    "distinct": 100,
+    "reclaims": 0,
+    "repairs": 4.01,
+    "links": 33.62,
+    "linkKills": 12.07,
+    "linkGames": 100,
+    "honey": 0.92,
+    "neutralShare": 54.01069518716577,
+    "dataPerGame": 20.57,
+    "dataWinTurn": 0,
+    "neutralPer": 11.11,
+    "breachPer": 0,
+    "vaultPer": 9.46,
+    "siegerBreachAvg": 0,
+    "siegerGatePct": 0,
+    "siegerGateTurn": 0,
+    "siegerCoreDmg": 0,
+    "gateAll": {
+     "n": 200,
+     "pct": 48.5,
+     "turn": 17.670103092783506,
+     "by12": 2.5
+    },
+    "gateByStyle": {
+     "raider": {
+      "n": 200,
+      "pct": 48.5,
+      "turn": 17.670103092783506,
+      "by12": 2.5
+     }
+    },
+    "siegerEngage": {
+     "pct": 0,
+     "turn": 0,
+     "by5": 0
+    },
+    "siegerWave": {
+     "allLostPct": 0,
+     "linkShare": 0,
+     "jackShare": 0,
+     "tbShare": 0,
+     "otherShare": 0,
+     "n": 0,
+     "wipedPct": 0,
+     "size": 0,
+     "houndKillShare": 0,
+     "turn": 0
+    },
+    "heatAll": {
+     "n": 200,
+     "pull": 0.36,
+     "high": 1.205,
+     "tb": 1.855,
+     "pullAny": 30
+    },
+    "heatByStyle": {
+     "raider": {
+      "n": 200,
+      "pull": 0.36,
+      "high": 1.205,
+      "tb": 1.855,
+      "pullAny": 30
+     }
+    },
+    "aWinPct": 54,
+    "bWinPct": 46,
+    "styleWin": {},
+    "styleGames": {}
+   }
+  },
+  "off": {
+   "balanced-balanced": {
+    "n": 100,
+    "coreDmgPct": 0,
+    "decisivePct": 0,
+    "meanLoss": 0,
+    "turns": 10.98,
+    "timePct": 4,
+    "corePct": 0,
+    "dataPct": 96,
+    "timeWinPct": 4,
+    "drawPct": 0,
+    "drawNonTime": 0,
+    "sdKillPct": 0,
+    "distinct": 100,
+    "reclaims": 0,
+    "repairs": 0,
+    "links": 4.01,
+    "linkKills": 2.24,
+    "linkGames": 73,
+    "honey": 0.82,
+    "neutralShare": 61.71045276690889,
+    "dataPerGame": 17.89,
+    "dataWinTurn": 10.604166666666666,
+    "neutralPer": 11.04,
+    "breachPer": 0,
+    "vaultPer": 6.85,
+    "siegerBreachAvg": 0,
+    "siegerGatePct": 0,
+    "siegerGateTurn": 0,
+    "siegerCoreDmg": 0,
+    "gateAll": {
+     "n": 200,
+     "pct": 0,
+     "turn": 0,
+     "by12": 0
+    },
+    "gateByStyle": {
+     "balanced": {
+      "n": 200,
+      "pct": 0,
+      "turn": 0,
+      "by12": 0
+     }
+    },
+    "siegerEngage": {
+     "pct": 0,
+     "turn": 0,
+     "by5": 0
+    },
+    "siegerWave": {
+     "allLostPct": 0,
+     "linkShare": 0,
+     "jackShare": 0,
+     "tbShare": 0,
+     "otherShare": 0,
+     "n": 0,
+     "wipedPct": 0,
+     "size": 0,
+     "houndKillShare": 0,
+     "turn": 0
+    },
+    "heatAll": {
+     "n": 200,
+     "pull": 0.11,
+     "high": 0.16,
+     "tb": 0.11,
+     "pullAny": 11
+    },
+    "heatByStyle": {
+     "balanced": {
+      "n": 200,
+      "pull": 0.11,
+      "high": 0.16,
+      "tb": 0.11,
+      "pullAny": 11
+     }
+    },
+    "aWinPct": 60,
+    "bWinPct": 40,
+    "styleWin": {},
+    "styleGames": {}
+   },
+   "raider-balanced": {
+    "n": 100,
+    "coreDmgPct": 0,
+    "decisivePct": 0,
+    "meanLoss": 0,
+    "turns": 10.24,
+    "timePct": 0,
+    "corePct": 0,
+    "dataPct": 100,
+    "timeWinPct": 0,
+    "drawPct": 0,
+    "drawNonTime": 0,
+    "sdKillPct": 0,
+    "distinct": 100,
+    "reclaims": 0,
+    "repairs": 0,
+    "links": 6.73,
+    "linkKills": 2.89,
+    "linkGames": 88,
+    "honey": 0.59,
+    "neutralShare": 66.55211912943872,
+    "dataPerGame": 17.46,
+    "dataWinTurn": 10.24,
+    "neutralPer": 11.62,
+    "breachPer": 0,
+    "vaultPer": 5.84,
+    "siegerBreachAvg": 0,
+    "siegerGatePct": 0,
+    "siegerGateTurn": 0,
+    "siegerCoreDmg": 0,
+    "gateAll": {
+     "n": 200,
+     "pct": 0.5,
+     "turn": 9,
+     "by12": 0.5
+    },
+    "gateByStyle": {
+     "balanced": {
+      "n": 100,
+      "pct": 0,
+      "turn": 0,
+      "by12": 0
+     },
+     "raider": {
+      "n": 100,
+      "pct": 1,
+      "turn": 9,
+      "by12": 1
+     }
+    },
+    "siegerEngage": {
+     "pct": 0,
+     "turn": 0,
+     "by5": 0
+    },
+    "siegerWave": {
+     "allLostPct": 0,
+     "linkShare": 0,
+     "jackShare": 0,
+     "tbShare": 0,
+     "otherShare": 0,
+     "n": 0,
+     "wipedPct": 0,
+     "size": 0,
+     "houndKillShare": 0,
+     "turn": 0
+    },
+    "heatAll": {
+     "n": 200,
+     "pull": 0.19,
+     "high": 0.52,
+     "tb": 0.825,
+     "pullAny": 16.5
+    },
+    "heatByStyle": {
+     "balanced": {
+      "n": 100,
+      "pull": 0.07,
+      "high": 0.2,
+      "tb": 0.12,
+      "pullAny": 7
+     },
+     "raider": {
+      "n": 100,
+      "pull": 0.31,
+      "high": 0.84,
+      "tb": 1.53,
+      "pullAny": 26
+     }
+    },
+    "aWinPct": 93,
+    "bWinPct": 7,
+    "styleWin": {
+     "raider": 93,
+     "balanced": 7
+    },
+    "styleGames": {
+     "raider": 100,
+     "balanced": 100
+    }
+   },
+   "raider-raider": {
+    "n": 100,
+    "coreDmgPct": 3,
+    "decisivePct": 0,
+    "meanLoss": 0.405,
+    "turns": 12.21,
+    "timePct": 1,
+    "corePct": 0,
+    "dataPct": 99,
+    "timeWinPct": 1,
+    "drawPct": 0,
+    "drawNonTime": 0,
+    "sdKillPct": 0,
+    "distinct": 100,
+    "reclaims": 0,
+    "repairs": 0.04,
+    "links": 27.71,
+    "linkKills": 9.53,
+    "linkGames": 100,
+    "honey": 0.68,
+    "neutralShare": 71.11225540679712,
+    "dataPerGame": 19.42,
+    "dataWinTurn": 12.131313131313131,
+    "neutralPer": 13.81,
+    "breachPer": 0,
+    "vaultPer": 5.61,
+    "siegerBreachAvg": 0,
+    "siegerGatePct": 0,
+    "siegerGateTurn": 0,
+    "siegerCoreDmg": 0,
+    "gateAll": {
+     "n": 200,
+     "pct": 3,
+     "turn": 10,
+     "by12": 2.5
+    },
+    "gateByStyle": {
+     "raider": {
+      "n": 200,
+      "pct": 3,
+      "turn": 10,
+      "by12": 2.5
+     }
+    },
+    "siegerEngage": {
+     "pct": 0,
+     "turn": 0,
+     "by5": 0
+    },
+    "siegerWave": {
+     "allLostPct": 0,
+     "linkShare": 0,
+     "jackShare": 0,
+     "tbShare": 0,
+     "otherShare": 0,
+     "n": 0,
+     "wipedPct": 0,
+     "size": 0,
+     "houndKillShare": 0,
+     "turn": 0
+    },
+    "heatAll": {
+     "n": 200,
+     "pull": 0.27,
+     "high": 1,
+     "tb": 1.995,
+     "pullAny": 22.5
+    },
+    "heatByStyle": {
+     "raider": {
+      "n": 200,
+      "pull": 0.27,
+      "high": 1,
+      "tb": 1.995,
+      "pullAny": 22.5
+     }
+    },
+    "aWinPct": 47,
+    "bWinPct": 53,
+    "styleWin": {},
+    "styleGames": {}
+   }
+  },
+  "A+B+C": {
+   "balanced-balanced": {
+    "n": 100,
+    "coreDmgPct": 13,
+    "decisivePct": 1,
+    "meanLoss": 1.35,
+    "turns": 11.04,
+    "timePct": 0,
+    "corePct": 0,
+    "dataPct": 100,
+    "timeWinPct": 0,
+    "drawPct": 0,
+    "drawNonTime": 0,
+    "sdKillPct": 0,
+    "distinct": 99,
+    "reclaims": 0.01,
+    "repairs": 0.23,
+    "links": 5.15,
+    "linkKills": 2.8,
+    "linkGames": 83,
+    "honey": 0.92,
+    "neutralShare": 62.13796735123749,
+    "dataPerGame": 18.99,
+    "dataWinTurn": 11.04,
+    "neutralPer": 11.8,
+    "breachPer": 0,
+    "vaultPer": 7.19,
+    "siegerBreachAvg": 0,
+    "siegerGatePct": 0,
+    "siegerGateTurn": 0,
+    "siegerCoreDmg": 0,
+    "gateAll": {
+     "n": 200,
+     "pct": 1,
+     "turn": 17.5,
+     "by12": 0
+    },
+    "gateByStyle": {
+     "balanced": {
+      "n": 200,
+      "pct": 1,
+      "turn": 17.5,
+      "by12": 0
+     }
+    },
+    "siegerEngage": {
+     "pct": 0,
+     "turn": 0,
+     "by5": 0
+    },
+    "siegerWave": {
+     "allLostPct": 0,
+     "linkShare": 0,
+     "jackShare": 0,
+     "tbShare": 0,
+     "otherShare": 0,
+     "n": 0,
+     "wipedPct": 0,
+     "size": 0,
+     "houndKillShare": 0,
+     "turn": 0
+    },
+    "heatAll": {
+     "n": 200,
+     "pull": 0.1,
+     "high": 0.145,
+     "tb": 0.105,
+     "pullAny": 10
+    },
+    "heatByStyle": {
+     "balanced": {
+      "n": 200,
+      "pull": 0.1,
+      "high": 0.145,
+      "tb": 0.105,
+      "pullAny": 10
+     }
+    },
+    "aWinPct": 56,
+    "bWinPct": 44,
+    "styleWin": {},
+    "styleGames": {}
+   },
+   "raider-balanced": {
+    "n": 100,
+    "coreDmgPct": 6,
+    "decisivePct": 0,
+    "meanLoss": 0.46,
+    "turns": 10.52,
+    "timePct": 0,
+    "corePct": 0,
+    "dataPct": 100,
+    "timeWinPct": 0,
+    "drawPct": 0,
+    "drawNonTime": 0,
+    "sdKillPct": 0,
+    "distinct": 100,
+    "reclaims": 0,
+    "repairs": 0.02,
+    "links": 7.81,
+    "linkKills": 3.36,
+    "linkGames": 90,
+    "honey": 0.69,
+    "neutralShare": 66.82385575589458,
+    "dataPerGame": 18.025,
+    "dataWinTurn": 10.52,
+    "neutralPer": 12.045,
+    "breachPer": 0,
+    "vaultPer": 5.98,
+    "siegerBreachAvg": 0,
+    "siegerGatePct": 0,
+    "siegerGateTurn": 0,
+    "siegerCoreDmg": 0,
+    "gateAll": {
+     "n": 200,
+     "pct": 1.5,
+     "turn": 12,
+     "by12": 1
+    },
+    "gateByStyle": {
+     "balanced": {
+      "n": 100,
+      "pct": 0,
+      "turn": 0,
+      "by12": 0
+     },
+     "raider": {
+      "n": 100,
+      "pct": 3,
+      "turn": 12,
+      "by12": 2
+     }
+    },
+    "siegerEngage": {
+     "pct": 0,
+     "turn": 0,
+     "by5": 0
+    },
+    "siegerWave": {
+     "allLostPct": 0,
+     "linkShare": 0,
+     "jackShare": 0,
+     "tbShare": 0,
+     "otherShare": 0,
+     "n": 0,
+     "wipedPct": 0,
+     "size": 0,
+     "houndKillShare": 0,
+     "turn": 0
+    },
+    "heatAll": {
+     "n": 200,
+     "pull": 0.17,
+     "high": 0.45,
+     "tb": 0.68,
+     "pullAny": 15.5
+    },
+    "heatByStyle": {
+     "balanced": {
+      "n": 100,
+      "pull": 0.08,
+      "high": 0.2,
+      "tb": 0.14,
+      "pullAny": 8
+     },
+     "raider": {
+      "n": 100,
+      "pull": 0.26,
+      "high": 0.7,
+      "tb": 1.22,
+      "pullAny": 23
+     }
+    },
+    "aWinPct": 91,
+    "bWinPct": 9,
+    "styleWin": {
+     "raider": 91,
+     "balanced": 9
+    },
+    "styleGames": {
+     "raider": 100,
+     "balanced": 100
+    }
+   },
+   "raider-raider": {
+    "n": 100,
+    "coreDmgPct": 21,
+    "decisivePct": 6,
+    "meanLoss": 4.32,
+    "turns": 12.04,
+    "timePct": 0,
+    "corePct": 0,
+    "dataPct": 100,
+    "timeWinPct": 0,
+    "drawPct": 0,
+    "drawNonTime": 0,
+    "sdKillPct": 0,
+    "distinct": 100,
+    "reclaims": 0,
+    "repairs": 0.11,
+    "links": 27.88,
+    "linkKills": 9.63,
+    "linkGames": 100,
+    "honey": 0.71,
+    "neutralShare": 70.13319672131148,
+    "dataPerGame": 19.52,
+    "dataWinTurn": 12.04,
+    "neutralPer": 13.69,
+    "breachPer": 0,
+    "vaultPer": 5.83,
+    "siegerBreachAvg": 0,
+    "siegerGatePct": 0,
+    "siegerGateTurn": 0,
+    "siegerCoreDmg": 0,
+    "gateAll": {
+     "n": 200,
+     "pct": 7,
+     "turn": 13.714285714285714,
+     "by12": 2.5
+    },
+    "gateByStyle": {
+     "raider": {
+      "n": 200,
+      "pct": 7,
+      "turn": 13.714285714285714,
+      "by12": 2.5
+     }
+    },
+    "siegerEngage": {
+     "pct": 0,
+     "turn": 0,
+     "by5": 0
+    },
+    "siegerWave": {
+     "allLostPct": 0,
+     "linkShare": 0,
+     "jackShare": 0,
+     "tbShare": 0,
+     "otherShare": 0,
+     "n": 0,
+     "wipedPct": 0,
+     "size": 0,
+     "houndKillShare": 0,
+     "turn": 0
+    },
+    "heatAll": {
+     "n": 200,
+     "pull": 0.245,
+     "high": 0.94,
+     "tb": 1.64,
+     "pullAny": 21
+    },
+    "heatByStyle": {
+     "raider": {
+      "n": 200,
+      "pull": 0.245,
+      "high": 0.94,
+      "tb": 1.64,
+      "pullAny": 21
+     }
+    },
+    "aWinPct": 45,
+    "bWinPct": 55,
+    "styleWin": {},
+    "styleGames": {}
+   }
+  },
+  "A+B+C+D2+D3 (참고)": {
+   "balanced-balanced": {
+    "n": 100,
+    "coreDmgPct": 54,
+    "decisivePct": 20,
+    "meanLoss": 12.83,
+    "turns": 15.41,
+    "timePct": 25,
+    "corePct": 0,
+    "dataPct": 75,
+    "timeWinPct": 25,
+    "drawPct": 1,
+    "drawNonTime": 1,
+    "sdKillPct": 0,
+    "distinct": 98,
+    "reclaims": 0.01,
+    "repairs": 2.5,
+    "links": 7.46,
+    "linkKills": 4.11,
+    "linkGames": 91,
+    "honey": 1.18,
+    "neutralShare": 48.82793017456359,
+    "dataPerGame": 20.05,
+    "dataWinTurn": 13.88,
+    "neutralPer": 9.79,
+    "breachPer": 0,
+    "vaultPer": 10.26,
+    "siegerBreachAvg": 0,
+    "siegerGatePct": 0,
+    "siegerGateTurn": 0,
+    "siegerCoreDmg": 0,
+    "gateAll": {
+     "n": 200,
+     "pct": 16.5,
+     "turn": 18.696969696969695,
+     "by12": 0
+    },
+    "gateByStyle": {
+     "balanced": {
+      "n": 200,
+      "pct": 16.5,
+      "turn": 18.696969696969695,
+      "by12": 0
+     }
+    },
+    "siegerEngage": {
+     "pct": 0,
+     "turn": 0,
+     "by5": 0
+    },
+    "siegerWave": {
+     "allLostPct": 0,
+     "linkShare": 0,
+     "jackShare": 0,
+     "tbShare": 0,
+     "otherShare": 0,
+     "n": 0,
+     "wipedPct": 0,
+     "size": 0,
+     "houndKillShare": 0,
+     "turn": 0
+    },
+    "heatAll": {
+     "n": 200,
+     "pull": 0.1,
+     "high": 0.145,
+     "tb": 0.11,
+     "pullAny": 10
+    },
+    "heatByStyle": {
+     "balanced": {
+      "n": 200,
+      "pull": 0.1,
+      "high": 0.145,
+      "tb": 0.11,
+      "pullAny": 10
+     }
+    },
+    "aWinPct": 51,
+    "bWinPct": 48,
+    "styleWin": {},
+    "styleGames": {}
+   },
+   "raider-balanced": {
+    "n": 100,
+    "coreDmgPct": 59,
+    "decisivePct": 20,
+    "meanLoss": 16.7,
+    "turns": 15.45,
+    "timePct": 18,
+    "corePct": 2,
+    "dataPct": 80,
+    "timeWinPct": 18,
+    "drawPct": 0,
+    "drawNonTime": 0,
+    "sdKillPct": 0,
+    "distinct": 100,
+    "reclaims": 0,
+    "repairs": 1.86,
+    "links": 11.55,
+    "linkKills": 5.11,
+    "linkGames": 94,
+    "honey": 0.89,
+    "neutralShare": 51.0727367870225,
+    "dataPerGame": 19.11,
+    "dataWinTurn": 14.425,
+    "neutralPer": 9.76,
+    "breachPer": 0,
+    "vaultPer": 9.35,
+    "siegerBreachAvg": 0,
+    "siegerGatePct": 0,
+    "siegerGateTurn": 0,
+    "siegerCoreDmg": 0,
+    "gateAll": {
+     "n": 200,
+     "pct": 18,
+     "turn": 17.47222222222222,
+     "by12": 1.5
+    },
+    "gateByStyle": {
+     "balanced": {
+      "n": 100,
+      "pct": 9,
+      "turn": 17.666666666666668,
+      "by12": 0
+     },
+     "raider": {
+      "n": 100,
+      "pct": 27,
+      "turn": 17.40740740740741,
+      "by12": 3
+     }
+    },
+    "siegerEngage": {
+     "pct": 0,
+     "turn": 0,
+     "by5": 0
+    },
+    "siegerWave": {
+     "allLostPct": 0,
+     "linkShare": 0,
+     "jackShare": 0,
+     "tbShare": 0,
+     "otherShare": 0,
+     "n": 0,
+     "wipedPct": 0,
+     "size": 0,
+     "houndKillShare": 0,
+     "turn": 0
+    },
+    "heatAll": {
+     "n": 200,
+     "pull": 0.21,
+     "high": 0.57,
+     "tb": 0.705,
+     "pullAny": 18.5
+    },
+    "heatByStyle": {
+     "balanced": {
+      "n": 100,
+      "pull": 0.11,
+      "high": 0.24,
+      "tb": 0.17,
+      "pullAny": 10
+     },
+     "raider": {
+      "n": 100,
+      "pull": 0.31,
+      "high": 0.9,
+      "tb": 1.24,
+      "pullAny": 27
+     }
+    },
+    "aWinPct": 88,
+    "bWinPct": 12,
+    "styleWin": {
+     "raider": 88,
+     "balanced": 12
+    },
+    "styleGames": {
+     "raider": 100,
+     "balanced": 100
+    }
+   },
+   "raider-raider": {
+    "n": 100,
+    "coreDmgPct": 89,
+    "decisivePct": 69,
+    "meanLoss": 45.48,
+    "turns": 17.95,
+    "timePct": 28,
+    "corePct": 26,
+    "dataPct": 46,
+    "timeWinPct": 28,
+    "drawPct": 0,
+    "drawNonTime": 0,
+    "sdKillPct": 19,
+    "distinct": 100,
+    "reclaims": 0,
+    "repairs": 2.63,
+    "links": 32.99,
+    "linkKills": 11.67,
+    "linkGames": 100,
+    "honey": 0.91,
+    "neutralShare": 54.956786985256734,
+    "dataPerGame": 19.67,
+    "dataWinTurn": 16.347826086956523,
+    "neutralPer": 10.81,
+    "breachPer": 0,
+    "vaultPer": 8.86,
+    "siegerBreachAvg": 0,
+    "siegerGatePct": 0,
+    "siegerGateTurn": 0,
+    "siegerCoreDmg": 0,
+    "gateAll": {
+     "n": 200,
+     "pct": 35,
+     "turn": 17.242857142857144,
+     "by12": 2.5
+    },
+    "gateByStyle": {
+     "raider": {
+      "n": 200,
+      "pct": 35,
+      "turn": 17.242857142857144,
+      "by12": 2.5
+     }
+    },
+    "siegerEngage": {
+     "pct": 0,
+     "turn": 0,
+     "by5": 0
+    },
+    "siegerWave": {
+     "allLostPct": 0,
+     "linkShare": 0,
+     "jackShare": 0,
+     "tbShare": 0,
+     "otherShare": 0,
+     "n": 0,
+     "wipedPct": 0,
+     "size": 0,
+     "houndKillShare": 0,
+     "turn": 0
+    },
+    "heatAll": {
+     "n": 200,
+     "pull": 0.335,
+     "high": 1.17,
+     "tb": 1.84,
+     "pullAny": 28
+    },
+    "heatByStyle": {
+     "raider": {
+      "n": 200,
+      "pull": 0.335,
+      "high": 1.17,
+      "tb": 1.84,
+      "pullAny": 28
+     }
+    },
+    "aWinPct": 53,
+    "bWinPct": 47,
+    "styleWin": {},
+    "styleGames": {}
+   }
+  }
+ }
+}
